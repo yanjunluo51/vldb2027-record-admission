@@ -13,7 +13,7 @@ https://github.com/yanjunluo51/vldb2027-record-admission/releases/tag/v1.0
 
 ## Contents of the archive
 
-- `paper/`: the submitted paper, its LaTeX sources and the supplement (`paper/supplement/main.pdf`).
+- `paper/`: the paper, its LaTeX sources and the supplement (`paper/supplement/main.pdf`).
 - `reproducibility/`: all saved model outputs, references, analysis code and frozen protocols for the news, literary, relation-extraction and DocETL experiments.
 - `bc5cdr/`: the frozen protocol, the 2,480 saved requests and the offline analysis of the BC5CDR audit.
 - `reporting/`: the reporting template and a filled BC5CDR example.
