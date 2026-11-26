@@ -4,12 +4,12 @@ Supplemental material and reproducibility artifact for the VLDB 2027 Experiment,
 
 ## Download
 
-The complete artifact is attached to the release **v1.37** of this repository:
+The complete artifact is attached to the release **v1.38** of this repository:
 
-https://github.com/yanjunluo51/vldb2027-record-admission/releases/tag/v1.37
+https://github.com/yanjunluo51/vldb2027-record-admission/releases/tag/v1.38
 
-- File: `record-admission-artifact-v1.37.zip` (about 371 MB)
-- SHA-256: `375b5f82996e950a6d9743fd7ced1565863ad585d06f39753c5174c95e16c18c`
+- File: `record-admission-artifact-v1.38.zip` (about 371 MB)
+- SHA-256: `73284d1385a7303e8bdbca19e70270abba593193a4b2a02eeb2745a3a4beb4ce`
 
 ## Contents of the archive
 
